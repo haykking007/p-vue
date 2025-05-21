@@ -1,7 +1,7 @@
 {
-  "name": "plentylane-fe",
+  "name": "p-vue",
   "version": "0.1.1",
-  "description": "Plenty Lane’s meal swapping network helps friends and neighbors share home cooked meals.",
+  "description": "p-vue",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
